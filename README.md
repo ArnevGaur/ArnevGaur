@@ -6,21 +6,21 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Arnev Gaur</h1>
-<h3 align="center">🚀 Computer Science Engineer | AI & Data Enthusiast</h3>
+<h1 align="center">Hi , I'm Arnev Gaur</h1>
+<h3 align="center"> Computer Science Engineer | AI & Data Enthusiast</h3>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-* 🎓 Computer Science student
-* 🤖 Focused on **Machine Learning & Deep Learning**
-* 📊 Strong interest in **Data Analytics & Problem Solving**
-* 🚀 Currently learning: **DSA, ML models, real-world AI systems**
+*  Computer Science student
+*  Focused on **Machine Learning & Deep Learning**
+*  Strong interest in **Data Analytics & Problem Solving**
+*  Currently learning: **DSA, ML models, real-world AI systems**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tensorflow,pytorch,git,github,vscode,figma" />
@@ -28,24 +28,24 @@
 
 ---
 
-## 🧩 Featured Areas
+##  Featured Areas
 
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* 📊 Data Analytics
-* 💻 Full Stack Development
-
----
-
-## 🏆 Achievements & Goals
-
-* 🚀 Building strong ML/DL projects
-* 📈 Consistently improving DSA & problem solving
-* 🎯 Goal: Land top internship in AI/Data field
+*  Machine Learning
+*  Deep Learning
+*  Data Analytics
+*  Full Stack Development
 
 ---
 
-## 🌐 Connect with Me
+##  Achievements & Goals
+
+*  Building strong ML/DL projects
+*  Consistently improving DSA & problem solving
+*  Goal: Land top internship in AI/Data field
+
+---
+
+##  Connect with Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  ⭐ <i>"Building intelligent systems, one step at a time."</i>
+   <i>"Building intelligent systems, one step at a time."</i>
 </p>
